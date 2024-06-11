@@ -1,0 +1,224 @@
+{
+  "students": [
+    {
+      "Kai": [
+        {
+          "day": "Monday",
+          "stars": "40",
+          "class": "Python 4c",
+          "time": "3:30",
+          "info": []
+        }
+      ]},
+    {
+      "Noah": [
+        {
+          "day": "monday",
+          "stars": "40",
+          "class": "Python 4c",
+          "time": "4:30",
+          "info": []
+
+        }
+      ],
+      "Holten": [
+        {
+          "day": "monday",
+          "stars": "40",
+          "class": "Python 2d",
+          "time": "4:30",
+          "info": []
+
+        }
+      ],
+      "James": [
+        {
+          "day": "monday",
+          "stars": "40",
+          "class": "Robotics",
+          "time": "5:30",
+          "info": []
+
+        }
+      ],
+      "Rose": [
+        {
+          "day": "monday",
+          "stars": "40",
+          "class": "Python 2d",
+          "time": "3:30",
+          "info": []
+
+        }
+      ],
+      "Gigi": [
+        {
+          "day": "tuesday",
+          "stars": "45",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Arya": [
+        {
+          "day": "tuesday",
+          "stars": "45",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Bodhi": [
+        {
+          "day": "tuesday",
+          "stars": "45",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Crash": [
+        {
+          "day": "tuesday",
+          "stars": "43",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Miles": [
+        {
+          "day": "tuesday",
+          "stars": "40",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Lev": [
+        {
+          "day": "tuesday",
+          "stars": "24",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Ray": [
+        {
+          "day": "tuesday",
+          "stars": "13",
+          "class": "Roblox Advanced",
+          "time": "5:30",
+          "info": []
+        }
+      ],
+      "Heath": [
+        {
+          "day": "tuesday",
+          "stars": "43",
+          "class": "Roblox Advanced",
+          "time": "5:30",
+          "info": []
+        }
+      ],
+      "Noah 2": [
+        {
+          "day": "tuesday",
+          "stars": "41",
+          "class": "Roblox Advanced",
+          "time": "5:30",
+          "info": []
+        }
+      ],
+      "Sophia": [
+        {
+          "day": "tuesday",
+          "stars": "35",
+          "class": "Roblox Advanced",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Luka": [
+        {
+          "day": "tuesday",
+          "stars": "40",
+          "class": "Python 3b",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Maria": [
+        {
+          "day": "wednesday",
+          "stars": "52",
+          "class": "Python 2c",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Max": [
+        {
+          "day": "wednesday",
+          "stars": "5",
+          "class": "Python 2c",
+          "time": "3:30",
+          "info": []
+        }
+      ],
+      "Sophia": [
+        {
+          "day": "wednesday",
+          "stars": "35",
+          "class": "Python 2c",
+          "time": "3:30",
+          "info": []
+        }
+      ]
+    },
+    {
+      "Ben": [
+        {
+          "day": "wednesday",
+          "stars": "49",
+          "class": "Python 2c",
+          "time": "3:30",
+          "info": []
+        }
+      ]
+    },
+    {
+      "Russell": [
+        {
+          "day": "wednesday",
+          "stars": "30",
+          "class": "Python 5b",
+          "time": "4:30",
+          "info": []
+        }
+      ]
+    },
+    {
+      "Maddy": [
+        {
+          "day": "wednesday",
+          "stars": "30",
+          "class": "Javascript Gaming Adv",
+          "time": "5:30",
+          "info": []
+        }
+      ],
+      "Cira": [
+        {
+          "day": "wednesday",
+          "stars": "30",
+          "class": "Javascript Gaming Adv",
+          "time": "5:30",
+          "info": []
+        }
+      ]
+    }
+  ]
+}
